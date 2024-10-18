@@ -3,7 +3,7 @@
 TAGS: subtyping, variance
 
 With declaration-site variance (see [Covariant
-containers](covariant-containers.md)), a generic class can be declared
+containers](general-covariance.md)), a generic class can be declared
 to be covariant in its type parameter, as long as the type parameter
 is only used in output positions:
 ```csharp
